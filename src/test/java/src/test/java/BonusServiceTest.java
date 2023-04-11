@@ -1,4 +1,9 @@
+package src.test.java;
+
 import org.junit.jupiter.api.Test;
+
+import src.main.java.BonusService;
+
 import org.junit.jupiter.api.Assertions;
 
 public class BonusServiceTest {
